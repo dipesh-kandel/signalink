@@ -1,0 +1,6 @@
+main_bg_color ="#CEC6A1"
+frame_bg_color = "#ddd8bf"
+button_bg_color = "#D7263D"
+white_color = "#ffffff"
+black_color = "#111111"
+brown_color = "#3c2410"

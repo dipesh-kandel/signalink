@@ -1,0 +1,7 @@
+logo_path = "images/logo.png"
+exit_path = "images/exit.png"
+love_path = "images/hand.png"
+hand1_path = "images/s4.png"
+hand2_path = "images/s5.png"
+close_path = "images/close.png"
+mic_path = "images/mic.png"
