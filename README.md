@@ -14,7 +14,7 @@ To install SignaLink, follow these steps:
 
 Clone the SignaLink repository from GitHub:
 
-git clone https://github.com/PrazolMalla/signalink.git
+git clone https://github.com/dipesh-kandel/signalink
 Install the required dependencies using pip:
 
 pip install -r requirements.txt
